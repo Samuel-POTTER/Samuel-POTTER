@@ -24,16 +24,16 @@ Enthusiastic Front End Developer with almost **3 years of practical experience**
 
 <a href="https://github.com/anuraghazra/convoychat">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=PrimeVisualizer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=PrimeVisualizer&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=LorentzAttractor" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=LorentzAttractor&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=Crypto2021" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=Crypto2021&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=Safthon" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=Safthon&theme=dracula" />
 </a>
 
 
