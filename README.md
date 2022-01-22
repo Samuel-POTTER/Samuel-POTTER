@@ -58,7 +58,7 @@ Enthusiastic Front End Developer with almost **3 years of practical experience**
 <img align="center" alt="Css" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img align="center" alt="Tailwindcss" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" />
 <img align="center" alt="c++" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="center" alt="git" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" />
+<img align="center" alt="git" width="50px" src="https://img2.freepng.fr/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg" />
 </p>
 
 <br />
