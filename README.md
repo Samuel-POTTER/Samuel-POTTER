@@ -22,17 +22,16 @@ Enthusiastic Front End Developer with almost **3 years of practical experience**
 
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  
+<a href="https://github.com/Samuel-POTTER/PrimeVisualizer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=PrimeVisualizer&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Samuel-POTTER/LorentzAttractor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=LorentzAttractor&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Samuel-POTTER/Crypto2021">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=Crypto2021&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Samuel-POTTER/Safthon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=Safthon&theme=dracula" />
 </a>
 
