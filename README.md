@@ -22,9 +22,8 @@ Enthusiastic Front End Developer with almost **3 years of practical experience**
 
 
 
-
-<a href="https://github.com/Samuel-POTTER/meal-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=meal-website&theme=dracula" />
+<a href="https://github.com/Samuel-POTTER/nike-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=nike-website&theme=dracula" />
 </a>
 <a href="https://github.com/Samuel-POTTER/nft-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=nft-website&theme=dracula" />
@@ -32,9 +31,11 @@ Enthusiastic Front End Developer with almost **3 years of practical experience**
 <a href="https://github.com/Samuel-POTTER/tesla-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=tesla-website&theme=dracula" />
 </a>
-<a href="https://github.com/Samuel-POTTER/nike-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=nike-website&theme=dracula" />
+<a href="https://github.com/Samuel-POTTER/meal-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-POTTER&repo=meal-website&theme=dracula" />
 </a>
+
+
 
 
 <p align="center">
