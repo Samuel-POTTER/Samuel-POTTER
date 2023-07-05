@@ -2,7 +2,7 @@
  <h2 align="center">Hi there, I'm Samuel 😄</h2>
 </p>
 
-Enthusiastic Front End Developer with almost **3 years of practical experience** in React, Javascript, Typescript, HTML/CSS, Tailwindcss. Eagger to learn new languages and technologies
+Enthusiastic Front End Developer with almost **3 years of practical experience** in React, NextJS, Javascript, Typescript, HTML/CSS, Tailwindcss. Eagger to learn new languages and technologies
 <p align='center'>
 <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
       <img src="https://img.shields.io/badge/Enthusiast%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
@@ -52,6 +52,7 @@ Enthusiastic Front End Developer with almost **3 years of practical experience**
 </p>
 <p align='center'>
 <img  align="center" alt="React" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
+<img  align="center" alt="React" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/120px-Nextjs-logo.svg.png?20230404233503" />
 <img align="center" alt="Js" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" />
 <img align="center" alt="Html" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />
 <img align="center" alt="Css" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
