@@ -41,9 +41,7 @@ Enthusiastic Front End Developer with almost **3 years of practical experience**
 <p align="center">
  <h2 align="center">About me</h2>
 </p>
-<span>I'm a student at 
-<a href="https://www.epitech.eu/">Epitech </a>
-, currently in my 4th year. Being an adept of React, C++ and an enthusiastic learner, I am searching an opportunity to improve upon and to put my skills to use. Thanks to years of playing on a championship rugby team, I have learned teamwork and the importance of hard work which leads to success.
+<span>Adept of React, Nextjs, C++ and an enthusiastic learner, I am always looking for opportunities to improve upon and to put my skills to use. Thanks to years of playing on a championship rugby team, I have learned teamwork and the importance of hard work which leads to success.
 
 <br />
 <br />
